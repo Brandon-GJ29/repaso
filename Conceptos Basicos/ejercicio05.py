@@ -1,3 +1,4 @@
+#5.Crea un programa que invierta una cadena (ejemplo: "Hola" → "aloH").
 word= str(input("Ingresa una palabra:"))
 
 newWord=""

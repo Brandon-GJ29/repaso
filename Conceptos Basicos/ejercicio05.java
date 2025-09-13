@@ -1,3 +1,4 @@
+//5.Crea un programa que invierta una cadena (ejemplo: "Hola" → "aloH").
 public class ejercicio05 {
     public static void main(String[] arg){
         System.out.println("Hola mundo ");

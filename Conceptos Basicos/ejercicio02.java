@@ -1,3 +1,4 @@
+//2. Dado un arreglo de números , calcula la suma total.
 import java.util.Scanner;
 
 public class ejercicio02 {

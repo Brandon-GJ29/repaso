@@ -1,3 +1,4 @@
+#3. Implementa una función que calcule el factorial de un número n.
 numero =int(input("Digita un numero:"))
 
 print(numero)

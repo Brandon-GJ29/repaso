@@ -1,3 +1,5 @@
+//4.Escribe un programa que muestre los números del 1 al 50,
+// pero que imprima "Fizz" en múltiplos de 3 y "Buzz" en múltiplos de 5.
 import java.util.Scanner;
 
 public class ejercicio04 {

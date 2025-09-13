@@ -1,5 +1,6 @@
+#4.Escribe un programa que muestre los números del 1 al 50, 
+#pero que imprima "Fizz" en múltiplos de 3 y "Buzz" en múltiplos de 5.
 numero = int(input("Ingresa un numero:"))
-
 
 for i in range (0,numero):
     print(i)

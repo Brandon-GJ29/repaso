@@ -1,4 +1,5 @@
 
+//1. Escribe un programa que reciba un número entero y determine si es par o impar.
 import java.util.Scanner;
 
 public class ejercicio01{ 
